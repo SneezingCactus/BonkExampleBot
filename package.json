@@ -1,0 +1,16 @@
+{
+  "name": "bonkexamplebot",
+  "version": "1.0.0",
+  "description": "An example bot for bonk.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SneezingCactus",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "socket.io": "2.1.0",
+    "socket.io-client": "2.1.0"
+  }
+}
